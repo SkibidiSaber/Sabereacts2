@@ -1,0 +1,16 @@
+{
+  "name": "discord-autoreact-railway-v5",
+  "version": "5.0.0",
+  "description": "Discord bot that auto-reacts to selected users with selected, saved, standard, or server emojis.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "emoji-datasource": "^15.1.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
