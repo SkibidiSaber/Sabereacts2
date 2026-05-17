@@ -1,0 +1,16 @@
+{
+  "name": "discord-autoreact-autoresponse-bot-v6",
+  "version": "6.0.0",
+  "description": "Discord bot for owner/admin/whitelisted auto-reactions and phrase-based auto-responses.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "emoji-datasource": "^15.1.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
